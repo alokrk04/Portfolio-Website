@@ -1,8 +1,5 @@
-Here is a dynamic, professional description tailored for your portfolio website. You can use this as an "About Me" section, a landing page overview, or the foundation for your GitHub Profile README.
 
-***
-
-## 🚀 Alok Kondebettu | Computer Science & AI Engineer
+## Alok Kondebettu | Computer Science & AI Engineer
 
 Welcome to my digital workspace! I am a Computer Science Engineering student (Class of 2026) based in Bengaluru, maintaining an 8.6 CGPA and a strong passion for data science, machine learning, and artificial intelligence. 
 
